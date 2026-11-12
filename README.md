@@ -10,5 +10,6 @@
 | Fulls de càlcul | Organitza despeses | Famílies i empreses |
 
 # Diferència entre IMAP i POP3
-• IMAP: manté els missatges al servidor i sincronitza tots els canvis en temps real entre els diferents dispositius.
-• POP3: descarrega els correus directament a un sol dispositiu i acostuma a esborrar-los del servidor.
+
+* **IMAP:** manté els missatges al servidor i sincronitza tots els canvis en temps real entre els diferents dispositius.
+* **POP3:** descarrega els correus directament a un sol dispositiu i acostuma a esborrar-los del servidor.
