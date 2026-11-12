@@ -16,4 +16,4 @@
 
 # Prova de etiqueta, filtres i resposta automàtica
 
-<img width="1920" height="1080" alt="imagen" src="https://github.com/user-attachments/assets/4b2ea653-9fc7-4950-8529-26e21d86396e" />
+![Prova de etiqueta, filtres i resposta automàtica](https://github.com/user-attachments/assets/4b2ea653-9fc7-4950-8529-26e21d86396e)
