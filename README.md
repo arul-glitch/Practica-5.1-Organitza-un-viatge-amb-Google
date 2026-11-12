@@ -13,3 +13,7 @@
 
 * **IMAP:** manté els missatges al servidor i sincronitza tots els canvis en temps real entre els diferents dispositius.
 * **POP3:** descarrega els correus directament a un sol dispositiu i acostuma a esborrar-los del servidor.
+
+# Prova de etiqueta, filtres i resposta automàtica
+
+<img width="1920" height="1080" alt="imagen" src="https://github.com/user-attachments/assets/4b2ea653-9fc7-4950-8529-26e21d86396e" />
