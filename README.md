@@ -1,4 +1,4 @@
-# Practica-5.1-Organitza-un-viage-amb-Google
+# Practica-5.1-Organitza-un-viatge-amb-Google
 
 | Eina | | Propòsit | | Target | 
 | :---: | | :---: | | :---: | 
