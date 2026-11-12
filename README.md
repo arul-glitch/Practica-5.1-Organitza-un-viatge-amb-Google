@@ -1,4 +1,3 @@
-# Practica-5.1-Organitza-un-viatge-amb-Google
 | Eina | | Propòsit | | Target | 
 | :---: | | :---: | | :---: | 
 | Gmail | | Enviem correus per compartir informació | | Persones o empreses | 
