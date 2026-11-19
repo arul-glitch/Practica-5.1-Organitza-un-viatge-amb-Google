@@ -33,3 +33,9 @@
 # Prova de respondre el missatge
 
 ![Prova de respondre el missatge](https://github.com/user-attachments/assets/d2bf1001-899c-424f-9be3-901dbda8d42f)
+
+# Que signifiquen SPF, DKIM, DMARC
+
+* **SPF:**  Confirma que el servidor des d'on s'ha enviat el correu està autoritzat pel domini del remitent.
+* **DKIM:** Garanteix amb una signatura digital que el contingut del missatge és íntegre i no s'ha alterat durant l'enviament.
+* **DMARC:** Valida que tant SPF com DKIM són correctes i assegura que el correu és autèntic i no és una suplantació d'identitat.
