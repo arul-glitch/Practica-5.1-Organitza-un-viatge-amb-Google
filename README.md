@@ -32,4 +32,4 @@
 
 # Prova de respondre el missatge
 
-![Prova de respondre el missatge](/home/smx1a/Imágenes/Capturas de pantalla/Captura desde 2026-11-19 12-26-28.png) 
+![Prova de respondre el missatge](https://github.com/user-attachments/assets/d2bf1001-899c-424f-9be3-901dbda8d42f)
