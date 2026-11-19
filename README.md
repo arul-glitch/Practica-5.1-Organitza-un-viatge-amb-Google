@@ -28,8 +28,8 @@
 
 # Prova de etiqueta
 
-![Prova de etiqueta](src="https://github.com/user-attachments/assets/0cc783e4-71b9-4ff4-b416-5e263a8bda7e")
+![Prova de etiqueta](https://github.com/user-attachments/assets/0cc783e4-71b9-4ff4-b416-5e263a8bda7e)
 
 # Prova de respondre el missatge
 
-![Prova de respondre el missatge](/home/smx1a/Imágenes/Capturas de pantalla/Captura desde 2026-11-19 12-26-28.png) 
+![Prova de respondre el missatge]() 
