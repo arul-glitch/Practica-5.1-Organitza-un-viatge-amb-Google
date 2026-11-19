@@ -26,6 +26,4 @@
 | SMTP | Sortint (enviar) | smtp.gmail.com | 465 | SSL/TLS |
 | SMTP | Sortint (enviar) | smtp.gmail.com | 587 | TLS (STARTTLS) |
 
-# Prova de etiqueta
-
-<img width="1080" height="1080" alt="Captura desde 2026-11-19 12-26-14" src="https://github.com/user-attachments/assets/0cc783e4-71b9-4ff4-b416-5e263a8bda7e" />
+![Prova de etiqueta](src="https://github.com/user-attachments/assets/0cc783e4-71b9-4ff4-b416-5e263a8bda7e")
