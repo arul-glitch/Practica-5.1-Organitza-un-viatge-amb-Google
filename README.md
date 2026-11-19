@@ -28,4 +28,4 @@
 
 # Prova de etiqueta
 
-<img width="600" height="1080" alt="Captura desde 2026-11-19 12-26-14" src="https://github.com/user-attachments/assets/0cc783e4-71b9-4ff4-b416-5e263a8bda7e" />
+<img width="1080" height="1080" alt="Captura desde 2026-11-19 12-26-14" src="https://github.com/user-attachments/assets/0cc783e4-71b9-4ff4-b416-5e263a8bda7e" />
