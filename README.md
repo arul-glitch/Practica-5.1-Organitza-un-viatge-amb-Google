@@ -17,3 +17,11 @@
 # Prova de etiqueta, filtres i resposta automàtica
 
 ![Prova de etiqueta, filtres i resposta automàtica](https://github.com/user-attachments/assets/4b2ea653-9fc7-4950-8529-26e21d86396e)
+
+# Taula de paràmetres
+
+| Protocol | Direcció | Direcció del servidor | Port | Encriptació | 
+| :---: | :---: | :---: | :---: | :---: |
+| POP | Entrant (rebre) | pop.gmail.com | 995 | SSL |
+| SMTP | Sortint (enviar) | smtp.gmail.com | 465 | SSL/TLS |
+| SMTP | Sortint (enviar) | smtp.gmail.com | 587 | TLS (STARTTLS) |
